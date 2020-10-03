@@ -1,0 +1,9 @@
+#keyboard button{
+  background: black;
+  color: white;
+  opacity: 1;
+}
+#keyboard button.used{
+  opacity: 0.5;
+
+}
